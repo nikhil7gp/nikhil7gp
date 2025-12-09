@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Nikhil
 
 <!--
-**nikhil7gp/nikhil7gp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📊 I’m a Data Analyst passionate about turning raw data into meaningful insights
+
+🔎 Skilled in EDA, PDA, SQL, Python, Excel, Tableau, and Power BI
+
+🧠 I’m currently learning Advanced Analytics & Machine Learning basics
+
+🤝 I’m looking to collaborate on Analytics dashboards, end-to-end data projects & automations
+
+📬 How to reach me: nikhil121123@gmail.com
 -->
