@@ -8,4 +8,4 @@
 
 🤝 I’m looking to collaborate on Analytics dashboards, end-to-end data projects & automations
 
-📬 How to reach me: nikhil7gp@gmail.com
+📬 How to reach me: nikhil121123@gmail.com
